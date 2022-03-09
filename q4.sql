@@ -1,4 +1,5 @@
--- Q4. Plane Capacity Histogram
+-- Q4. Plane Capacity Histogram -- Create a table that is, essentially, a histogram of the percentages of how full planes have been on the flights that they have made 
+-- (that is, only the flights that have actually departed).
 
 -- You must not change the next 2 lines or the table definition.
 SET SEARCH_PATH TO air_travel, public;
