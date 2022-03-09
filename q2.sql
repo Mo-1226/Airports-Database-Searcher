@@ -1,4 +1,5 @@
--- Q2. Refunds!
+-- Q2. Refunds! -- For every airline and year that the airline had flights which required refunds, return the total refund money
+-- given in that particular year in each seat class.
 
 -- You must not change the next 2 lines or the table definition.
 SET SEARCH_PATH TO air_travel, public;
