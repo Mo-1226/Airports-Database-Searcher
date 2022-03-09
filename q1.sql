@@ -1,4 +1,5 @@
--- Q1. Airlines
+-- Q1. Airlines -- For each passenger, report their passenger ID, full name, and the number of different airlines on
+which they took a flight
 
 -- You must not change the next 2 lines or the table definition.
 SET SEARCH_PATH TO air_travel, public;
