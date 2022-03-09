@@ -1,4 +1,5 @@
--- Q3. North and South Connections
+-- Q3. North and South Connections -- List the number of possible different routes that a passenger can take on that day to get from the outbound city to the inbound. In addition,
+-- you should include the earliest possible arrival time to the inbound city from all of the routes you found.
 
 -- You must not change the next 2 lines or the table definition.
 SET SEARCH_PATH TO air_travel, public;
